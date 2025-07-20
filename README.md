@@ -8,7 +8,6 @@
 ### 📥 Installation
 
 ```bash
-pip install hashlib
 git clone https://github.com/your-username/python-keylogger.git
 cd python-keylogger
 pip install -r requirements.txt
